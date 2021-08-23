@@ -1,5 +1,1 @@
-local RAYMIN = {
-	953043143,
-	99087422,
-}
-local success,err = pcall(RAYMIN)
+print("RAY")
