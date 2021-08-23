@@ -1,1 +1,5 @@
-print ("pro")
+local Diamond = {
+	953043143,
+	99087422,
+}
+local success,err = pcall(RAYMIN)
