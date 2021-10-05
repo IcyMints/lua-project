@@ -8,7 +8,6 @@ Space 🪐#0239 | Founder | Scripter | Ui Designer <br/>
 vis#5001 | Co Founder | Scripter | Tester <br/>
 
 **__ABOUT__**
-
 - [x] High Quality
 - [x] No Bug
 - [x] Constant update
