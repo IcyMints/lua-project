@@ -1,7 +1,7 @@
-**__RAY X COMMUNITY__** 
+## RAY X
 * The only Script that you will need.
 
-**__CREDITS__** 
+**__MADE BY__** 
 * Space 🪐#0239 | Founder | Scripter | Ui Designer
 * vis#5001 | Co Founder | Scripter | Tester
 
