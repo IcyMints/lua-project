@@ -12,9 +12,9 @@
 - [x] Friendly Community
 - [x] Free
 
-**__GROUP & INVITE LINK__**
-* ```https://discord.gg/wzWGjeaRwP```
-* ```https://www.roblox.com/groups/12271076/RAYX-Official-Community#!/about```
+**__JOIN__**
+* https://discord.gg/wzWGjeaRwP
+* https://www.roblox.com/groups/12271076/RAYX-Official-Community#!/about
 
 **__SCRIPT__**
 
