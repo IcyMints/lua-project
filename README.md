@@ -1,4 +1,4 @@
-**__RAY X__** 
+**__RAY X COMMUNITY__** 
 * The only Script that you will need.
 
 **__CREDITS__** 
@@ -11,6 +11,10 @@
 - [x] Constant update
 - [x] Friendly Community
 - [x] Free
+
+**__GROUP & INVITE LINK__**
+* ```https://discord.gg/wzWGjeaRwP```
+* ```https://www.roblox.com/groups/12271076/RAYX-Official-Community#!/about```
 
 **__SCRIPT__**
 
