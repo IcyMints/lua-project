@@ -1,1 +1,6 @@
 **RAY X**
+
+**SCRIPT:**
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/urmomugly/lua-project/main/Script%26/RAYXV001'))()
+```
