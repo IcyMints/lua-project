@@ -1,5 +1,5 @@
 **__RAY X__** 
-* Best Da Hood Script that you can find.
+* The only Script that you will need.
 
 **__CREDITS__** 
 * Space 🪐#0239 | Founder | Scripter | Ui Designer
