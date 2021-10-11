@@ -1,4 +1,4 @@
-## RAY X
+## RAY X COMMUNITY
 * The only Script that you will need.
 
 **__MADE BY__** 
@@ -10,7 +10,7 @@
 - [x] No Bug
 - [x] Constant update
 - [x] Friendly Community
-- [x] Free
+- [x] Free Script 
 
 **__JOIN__**
 * https://discord.gg/wzWGjeaRwP
