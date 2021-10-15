@@ -17,7 +17,6 @@
 * https://www.roblox.com/groups/12271076/RAYX-Official-Community#!/about
 
 **__SCRIPT__**
-
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/urmomugly/lua-project/main/Script%26/RAYXV001'))()
 ```
